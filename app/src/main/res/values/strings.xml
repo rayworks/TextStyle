@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TextStyle</string>
+    <string name="sample_text"><annotation foregroundColor="@color/colorPrimary"><annotation font="roboto_light">Programming is not about typing</annotation></annotation>, however, (<annotation src="@drawable/ic_mark">&#2228;</annotation>)\n<i><annotation foregroundColor="@color/colorAccent">it\'s about thinking.</annotation></i></string>
+</resources>
