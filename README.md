@@ -6,7 +6,7 @@ Inspired by the article: [Styling internationalized text in Android
 
 
 ## Screenshot
-![](/style.jpg)
+![](/text_style.png)
 
 ## Credit
 
